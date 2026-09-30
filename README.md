@@ -34,5 +34,11 @@
 
 - Nano-vLLM 源码：https://github.com/GeeeekExplorer/nano-vllm
 
+## 关注我们
+<div align=center>
+    <p>欢迎关注公众号：AI技术应用实践</p>
+    <img src="https://raw.githubusercontent.com/AiTechAP/AiTechAP.github.io/refs/heads/main/images/AiTechAP-qrcode.png" height="300">
+</div>
+
 ---
 *本课程基于 Nano-vLLM v0.2.0 源码编写，课程配套课件、教学视频持续更新中。*
