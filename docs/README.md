@@ -8,7 +8,7 @@
 |------|------|
 | 课程名称 | 《Nano-vLLM 源码解读：从零构建高性能 LLM 推理引擎》 |
 | 课程地址 | https://github.com/AiTechAP/nano-vllm-learning |
-| 在线阅读 | https://aitechap.github.io/ |
+| 在线阅读 | https://aitechap.github.io/nano-vllm-learning |
 | 课程视频 | https://space.bilibili.com/509304290 |
 
 ## 二、课程简介
